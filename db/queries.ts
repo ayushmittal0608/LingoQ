@@ -12,6 +12,8 @@ import {
   userSubscription
 } from "@/db/schema";
 
+
+
 export const getUserProgress = cache(async () => {
   const { userId } = await auth();
 
