@@ -7,4 +7,4 @@ I independently contributed to the LingoQuest open-source project by adding:
 
 These features were added to improve the user experience and learning flow on the platform.
 
-Note: The frontend of this project is in frontend branch of this repository. You can access my frontend contribution part of video sidebar and chatbot integration from that branch of repository.
+**Note:** The frontend of this project is in frontend branch of this repository. You can access my frontend contribution part of video sidebar and chatbot integration from that branch of repository.
